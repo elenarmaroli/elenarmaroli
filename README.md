@@ -1,12 +1,10 @@
 ## Hello World! 🌞
 
-I am Elena, a Junior FullStack Developer with a passion for arts and creative writing.
+I am Elena, a Humanities graduated turned into a Junior FullStack Developer with a passion for arts and creative writing.
 
 ### About me
 - 📫 Email: elenarmaroli@gmail.com
-- 😄 Pronouns: she/her
 - 📍 Berlin, Germany
-- [LinkedIn](https://www.linkedin.com/in/elenarmaroli/)
 
 ### Skills
 - 💻 Programming Languages: JavaScript
