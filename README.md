@@ -6,7 +6,7 @@ I am Elena, a Junior FullStack Developer with a passion for arts and creative wr
 - 📫 Email: elenarmaroli@gmail.com
 - 😄 Pronouns: she/her
 - 📍 Berlin, Germany
-- LinkedIn: https://www.linkedin.com/in/elenarmaroli/
+- [LinkedIn](https://www.linkedin.com/in/elenarmaroli/)
 
 ### Skills
 - 💻 Programming Languages: JavaScript
