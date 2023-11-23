@@ -8,7 +8,7 @@ I am Elena, a Humanities graduate turned into a Junior FullStack Developer with 
 
 ### Skills
 - 💻 Programming Languages: JavaScript
-- 🚀 Frameworks: React, Node.js, Express.js
+- 🚀 Frameworks: React.js, Node.js, Express.js
 - 🛠 Tools: Git, VSCode, Figma
 - 🌐 Web Technologies: HTML, CSS, RESTful APIs
 - 📊 Databases: MongoDB
