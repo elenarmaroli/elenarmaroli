@@ -1,6 +1,6 @@
 ## Hello World! 🌞
 
-I am Elena, a Humanities graduated turned into a Junior FullStack Developer with a passion for arts and creative writing.
+I am Elena, a Humanities graduate turned into a Junior FullStack Developer with a passion for arts and creative writing.
 
 ### About me
 - 📫 Email: elenarmaroli@gmail.com
