@@ -5,6 +5,7 @@ I am Elena, a Humanities graduate turned into a Junior FullStack Developer with 
 ### About me
 - 📫 Email: elenarmaroli@gmail.com
 - 📍 Berlin, Germany
+- Portfolio: https://elena-armaroli-portfolio.onrender.com/
 
 ### Skills
 - 💻 Programming Languages: JavaScript
